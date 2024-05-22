@@ -1,0 +1,21 @@
+{
+  "name": "sanjana",
+  "version": "1.0.0",
+  "description": "demo practicw",
+  "main": "demo.js",
+  "scripts": {
+    "test": "sanjana"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
